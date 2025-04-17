@@ -26,9 +26,9 @@ EXEIV is a tech agency dedicated to building cutting-edge web and mobile applica
 - **Other Tools:** Docker, Clerk, Stream Chat
 
 ### 📫 How to Reach Me
-- 🌐 **[Portfolio Website](https://exeiv.com)**
-- 📧 **aryanthakur@exeiv.com**
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/aryanthakur/)**
+- 🌐 **[Portfolio Website](https://exeiv.vercel.app/)**
+- 📧 **aryanthakur.digital@gamil.com**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/ceo-aryan-thakur/)**
 - 🎥 **[YouTube - FACTxPIXEL](https://www.youtube.com/@FACTxPIXEL)**
 
 Let's connect and create something amazing together! 🚀
