@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love exploring creative UI/UX designs and experimenting with futuristic web animations.
 
 ### 🏢 About EXEIV
-🌐 **[Visit EXEIV](https://exeiv.vercel.app)**
+🌐 **[Visit EXEIV](https://exeiv.in)**
 EXEIV is a tech agency dedicated to building cutting-edge web and mobile applications, specializing in:
 - Web and Mobile App Development
 - UI/UX Design and Digital Branding
@@ -26,7 +26,7 @@ EXEIV is a tech agency dedicated to building cutting-edge web and mobile applica
 - **Other Tools:** Docker, Clerk, Stream Chat
 
 ### 📫 How to Reach Me
-- 🌐 **[Portfolio Website](https://exeiv.vercel.app/)**
+- 🌐 **[Portfolio Website](https://exeiv.in)**
 - 📧 **aryanthakur.digital@gamil.com**
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/ceo-aryan-thakur/)**
 - 🎥 **[YouTube - FACTxPIXEL](https://www.youtube.com/@FACTxPIXEL)**
